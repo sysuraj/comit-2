@@ -1,3 +1,13 @@
+# I, Suraj Singh, student id: 000742243, certify that all code submitted is my own work; that I have not copied it from any other source. I also certify that I have not allowed my work to be copied by anyone.
+
+/**
+* Do use camelCasing for method arguments and local variables.
+* Do use predefined type names instead of system type names like Int16, Single, UInt64, etc
+* Do use implicit type var for local variable declarations. Exception: primitive types (int, string, double, etc) use predefined names.
+* Do organize namespaces with a clearly defined structure
+* Do vertically align curly brackets.
+*/
+
 using System;
 using System.Collections.Generic;
 
